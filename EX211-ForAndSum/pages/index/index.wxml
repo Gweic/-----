@@ -1,0 +1,14 @@
+<!--pages/kj/ForAndSum/index.wxml-->
+<view class='box'>
+  <view class='title'>利用循环语句计算</view>
+  <view>
+    <input placeholder='请输入本金' type='number' bindblur='sNum'></input>
+    <input placeholder='请输入利率' type='number' bindblur='aNum'></input>
+  </view>
+  <view>复利计息后得到的钱为：{{sum}} </view>
+  <button type='primary' bindtap='calc'>计算</button>
+</view>
+<view>电科19-1</view>
+<view>高伟闯</view>
+<view>2301923010107</view>
+<view>生活不易常常叹气</view>

@@ -1,0 +1,7 @@
+/* pages/kj/RandomSum/index.wxss */
+.title{
+    width: 100%;
+    line-height: 100rpx;
+    background-color: red;
+    clear: both;
+}
